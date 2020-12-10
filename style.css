@@ -70,6 +70,8 @@
 	transition: 0.4s linear;	
 }
 
+a:visited{color:#535c68;}
+
 .page-content a:hover{
 	color: #fff;
 	background:#535c68;
