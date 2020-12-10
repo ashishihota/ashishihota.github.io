@@ -43,6 +43,17 @@
 	font-family: 'JetBrains Mono', monospace;
 }
 
+.page-content a{
+	color:#2d3436;
+	font-size: 20px;
+	border: none;
+	text-decoration: none;
+	font-weight: 900;
+	margin-bottom: 20px;
+	font-family: 'JetBrains Mono', monospace;
+}
+
+
 .page-content p{
 	color: #535c68;
 	margin-bottom: 20px;
