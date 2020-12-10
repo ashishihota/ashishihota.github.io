@@ -75,6 +75,10 @@
 	background:#535c68;
 }
 
+.page-content .top a:hover{
+	color: #fff;
+	background:#535c68;
+}
 .social a{
 	color: black;
 	font-size: 30px;
