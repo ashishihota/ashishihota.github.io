@@ -1,0 +1,54 @@
+body{
+	margin:0;
+	padding: 0;
+	background: #2d3436;
+}
+
+.container{
+	position: absolute;
+	top: 30%;
+	left: 40%;
+	transition: translate(-50%, -50%);
+}
+
+.btn{
+	align-content: center;
+	position: relative;
+	width: 300px;
+	display: block;
+	color: white;
+	background: #2d3436;
+	font-size:14px;
+	font-family: 'JetBrains Mono', monospace;
+	text-decoration: underline;
+	margin: 30px 0;
+	border: 2px solid #ff7675;
+	padding: 14px 60px;
+	text-transform: uppercase;
+	overflow: hidden;
+	transition: 1s all ease;
+}
+
+.btn::before{
+	background: #ff7675;
+	content: "";
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transition: translate(-50%, -50%);
+	z-index: -1;
+	transition: all 0.6 ease;
+}
+
+a {
+	display: inline-block;
+	font-size: 20px;
+	font-weight: 1000;
+	text-decoration: none;
+	color :white;
+	transition: 0.4s line
+
+a:hover{
+	color: #fff;
+	background:#535c68;
+}
