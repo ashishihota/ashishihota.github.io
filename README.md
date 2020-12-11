@@ -1,1 +1,1 @@
-# ashishihota.github.io
+# averagecoder.me
