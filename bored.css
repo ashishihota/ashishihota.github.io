@@ -29,6 +29,10 @@ body{
 	transition: 1s all ease;
 }
 
+.btn:hover{
+	background-color: #ff7675;
+}
+
 .btn::before{
 	background: #ff7675;
 	content: "";
